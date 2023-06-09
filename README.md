@@ -3,4 +3,4 @@ Setup installer for test ver of Coffee
 :>
 
 
-![image](Screenshots/Screenshot 2023-06-09 142812.png)
+![image](https://i.imgur.com/ijacVwG.png)
